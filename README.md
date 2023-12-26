@@ -1,5 +1,9 @@
 ### Hyori Ma
-🔭 I’m currently working as Web Developer in South Korea.
+I’m currently working as Web Developer in South Korea.
+### 📫 Find Me at
+- Mail : hyori100@gmail.com
+- Blog : hyolls100.tistory.com
+
 
 <!--
 **hyori100/hyori100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
