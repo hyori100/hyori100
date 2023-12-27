@@ -7,10 +7,10 @@
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyori100&theme=transparent&include_al_commits=true&count_private=true"" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hyori100&theme=transparent&include_al_commits=true&count_private=true" height=200px />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyori100&exclude_repo=hyori100.github.io&layout=compact&theme=transparent" width="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyori100&exclude_repo=hyori100.github.io&layout=compact&theme=transparent" height=200px/>
 </a>
 
 
