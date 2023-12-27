@@ -1,5 +1,4 @@
-
-![header](https://capsule-render.vercel.app/type=waving&color=timeGradient&text=Welcome%20to%20Hyori's%20Github%20✨&animation=twinkling&fontsize=35&fontAlignY=40&fontAlign=70&heigth=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyori's%20Github%20✨&animation=twinkling&fontsize=35&fontAlignY=40&fontAlign=70&heigth=250)
 ---
 
 ### 💬 Contact
