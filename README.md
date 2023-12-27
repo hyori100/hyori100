@@ -6,6 +6,15 @@
 
 [![Hyori's Github stats](https://github-readme-stats.vercel.app/api?username=hyori100&include_al_commits=true&theme=transparent&hide_border=false&count_private=true)](https://github.com/hyori100/github-readme-stats)
 
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyori100&exclude_repo=hyori100.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyori100&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
+
 ### 💬 Contact
 <div style = "display:flex; flex-direction:row;>
   <a href = "https://www.instagram.com/hhyolls/">
