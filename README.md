@@ -2,6 +2,9 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyori's%20Github!%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
+<br>
+
+[![Hyori's Github stats](https://github-readme-stats.vercel.app/api?username=hyori100&include_al_commits=true&theme=transparent&hide_border=false&count_private=true)](https://github.com/hyori100/github-readme-stats)
 
 ### 💬 Contact
 <div style = "display:flex; flex-direction:row;>
