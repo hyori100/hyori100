@@ -5,15 +5,9 @@
 I'm currently working as Web Developer.<br><br>
 My main skills are Javascript and Ember.js as Frontend, C# as Backend, Python as Algorithm.<br><br>
 
-  <a href="https://hyolls100.tistory.com/">
-    <img src= "https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white">
-  </a>&nbsp
-  <a href="https://www.instagram.com/hhyolls/">
-    <img src= "https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white">
-  </a>&nbsp
-  <a href = "mailto:hyori100@gmail.com">
-    <img src= "https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white">
-  </a>
+  <a href="https://hyolls100.tistory.com/"><img src= "https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"></a> 
+  <a href="https://www.instagram.com/hhyolls/"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hhyolls"/></a>
+  <a href = "mailto:hyori100@gmail.com"><img src= "https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ---
 <br>
@@ -24,7 +18,7 @@ My main skills are Javascript and Ember.js as Frontend, C# as Backend, Python as
   <img src="https://github-readme-stats.vercel.app/api?username=hyori100&theme=transparent&include_al_commits=true&count_private=true"/>
 </a>
 
-## 📫 Stacks
+## 📚 Stacks
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <div>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
