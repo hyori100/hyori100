@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyori's%20Github!%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=180)
 
 I'm currently working as Web Developer.<br><br>
-My recently used skills are Javascript, Ember.js as Frontend and C# as Backend.<br><br>
+My recently used skills are Javascript and Ember.js as Frontend, C# as Backend, Python as Algorithm.<br><br>
 
 <a href="https://www.instagram.com/hhyolls/">
     <img src= "https://img.shields.io/badge/hhyolls-E4405F?style=flat&logo=Instagram&logoColor=white">
