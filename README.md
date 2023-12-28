@@ -4,6 +4,13 @@
 
 I'm currently working as Web Developer.
 
+<a href="https://www.instagram.com/hhyolls/">
+    <img src= "https://img.shields.io/badge/hhyolls-E4405F?style=flat&logo=Instagram&logoColor=white">
+  </a>
+  <a href = "mailto:hyori100@gmail.com">
+    <img src= "https://img.shields.io/badge/hyori100@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">
+  </a>
+
 ---
 <br>
 
@@ -39,14 +46,6 @@ I'm currently working as Web Developer.
 </div>
 
 
-## 💬 Contact
-  <a href="https://www.instagram.com/hhyolls/">
-    <img src= "https://img.shields.io/badge/hhyolls-E4405F?style=flat&logo=Instagram&logoColor=white">
-  </a>
-  <a href = "mailto:hyori100@gmail.com">
-    <img src= "https://img.shields.io/badge/hyori100@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">
-  </a>
-<br>
 </div>
 
 <!--
@@ -56,6 +55,16 @@ I'm currently working as Web Developer.
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyori100&exclude_repo=hyori100.github.io&layout=compact&theme=transparent" height=200px/>
 </a>
+
+
+## 💬 Contact
+  <a href="https://www.instagram.com/hhyolls/">
+    <img src= "https://img.shields.io/badge/hhyolls-E4405F?style=flat&logo=Instagram&logoColor=white">
+  </a>
+  <a href = "mailto:hyori100@gmail.com">
+    <img src= "https://img.shields.io/badge/hyori100@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">
+  </a>
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
