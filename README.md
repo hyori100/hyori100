@@ -7,11 +7,9 @@
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyori100&theme=transparent&include_al_commits=true&count_private=true" height=200px />
+  <img src="https://github-readme-stats.vercel.app/api?username=hyori100&theme=transparent&include_al_commits=true&count_private=true"/>
 </a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyori100&exclude_repo=hyori100.github.io&layout=compact&theme=transparent" height=200px/>
-</a>
+
 
 
 
@@ -30,6 +28,10 @@
 <!--
 **hyori100/hyori100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Hyori's Github stats](https://github-readme-stats.vercel.app/api?username=hyori100&include_al_commits=true&theme=transparent&hide_border=false&count_private=true)](https://github.com/hyori100/github-readme-stats)
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyori100&exclude_repo=hyori100.github.io&layout=compact&theme=transparent" height=200px/>
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
