@@ -13,10 +13,33 @@ I'm currently working as Web Developer.
   <img src="https://github-readme-stats.vercel.app/api?username=hyori100&theme=transparent&include_al_commits=true&count_private=true"/>
 </a>
 
+## 📫 Stacks
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+  <div>
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/ember.js-E05E27?style=for-the-badge&logo=ember.js&logoColor=white">
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/C%23-8032cd?style=for-the-badge&logo=Csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  </div><br>
+</div>
 
 
-
-### 💬 Contact
+## 💬 Contact
   <a href="https://www.instagram.com/hhyolls/">
     <img src= "https://img.shields.io/badge/hhyolls-E4405F?style=flat&logo=Instagram&logoColor=white">
   </a>
