@@ -5,11 +5,14 @@
 I'm currently working as Web Developer.<br><br>
 My main skills are Javascript and Ember.js as Frontend, C# as Backend, Python as Algorithm.<br><br>
 
-<a href="https://www.instagram.com/hhyolls/">
-    <img src= "https://img.shields.io/badge/hhyolls-E4405F?style=flat&logo=Instagram&logoColor=white">
+  <a href="https://hyolls100.tistory.com/">
+    <img src= "https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/hhyolls/">
+    <img src= "https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white">
   </a>
   <a href = "mailto:hyori100@gmail.com">
-    <img src= "https://img.shields.io/badge/hyori100@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">
+    <img src= "https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white">
   </a>
 
 ---
