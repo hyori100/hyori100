@@ -1,6 +1,9 @@
 <div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyori's%20Github!%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=180)
+
+I'm currently working as Web Developer.
+
 ---
 <br>
 
@@ -14,14 +17,12 @@
 
 
 ### 💬 Contact
-<div style = "display:flex; flex-direction:row;>
-  <a href = "https://www.instagram.com/hhyolls/">
+  <a href="https://www.instagram.com/hhyolls/">
     <img src= "https://img.shields.io/badge/hhyolls-E4405F?style=flat&logo=Instagram&logoColor=white">
   </a>
   <a href = "mailto:hyori100@gmail.com">
     <img src= "https://img.shields.io/badge/hyori100@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">
   </a>
-</div>
 <br>
 </div>
 
