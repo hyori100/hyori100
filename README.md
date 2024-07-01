@@ -2,9 +2,9 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyori's%20Github!%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=180)
 
-<!--안녕하세요. 저는 2년차 웹 개발자입니다. <br><br>
+안녕하세요. 저는 2년차 웹 개발자입니다. <br><br>
 현재, (주)이지케어텍 에서 Front End로 Javascript와 Ember.js(SPA)를 다루고 있으며, Back End로 C#을 다루고 있습니다. <br><br>
-Front End 개발자로 거듭나기 위해 사이드 팀 프로젝트(Taskgram)에 참여하여 React.js를 학습하며 개발하고 있습니다. <br><br> -->
+Front End 개발자로 거듭나기 위해 사이드 팀 프로젝트(Taskgram)에 참여하여 React.js를 학습하며 개발하고 있습니다. <br><br>
 
   <a href="https://hyolls100.tistory.com/"><img src= "https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"></a> 
   <a href="https://www.instagram.com/hhyolls/"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hhyolls"/></a>
